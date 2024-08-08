@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and one day I would like to learn C++ too.
 - 💞️ I’m looking to collaborate on similar projects too.
 - 📫 You can reach me here if you have some idea how this App should work.
-- 😄 Pronouns: Mr
+- 😄 Pronouns: Mr 😀
 - ⚡ Fun fact: I love Japanese culture.
 
 <!---
